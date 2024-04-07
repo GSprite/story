@@ -1,33 +1,33 @@
 body {
-  background-color: #e2df09; /* Light yellow background */
-  font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun, kid-friendly font */
+  background-color: #e2df09; 
+  font-family: 'Comic Sans MS', cursive, sans-serif; 
 }
 .container {
-  background-color: #fff; /* White container background */
+  background-color: #fff; 
   border-radius: 20px;
   padding: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   margin-top: 30px;
 }
 h2 {
-  color: #2e3192; /* Dark blue heading color */
-  font-size: 36px; /* Larger heading font size */
+  color: #2e3192; 
+  font-size: 36px; 
   text-align: center;
 }
 .img-fluid {
-  max-width: 80%; /* Limit image width */
-  margin-bottom: 20px; /* Add space below image */
+  max-width: 80%; 
+  margin-bottom: 20px; 
 }
 .btn-primary {
-  background-color: #f04e4e; /* Red button background */
-  border-color: #f04e4e; /* Red button border */
-  font-size: 24px; /* Larger button font size */
+  background-color: #f04e4e;
+  border-color: #f04e4e; /
+  font-size: 24px; 
 }
 .btn-primary:hover {
   transform: translateY(-5px); 
-  background-color: #ff7675; /* Lighter red on hover */
-  border-color: #ff7675; /* Lighter red border on hover */
+  background-color: #ff7675; 
+  border-color: #ff7675; 
 }
 .div{
-  background-color: #c0c018; /* Light yellow background */
+  background-color: #c0c018; 
 }
